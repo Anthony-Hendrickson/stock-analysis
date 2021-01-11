@@ -32,7 +32,7 @@ By using the array instead of the loop we have reduced the number of read throug
 
 After the refactoring we noted that the macro took 0.09375 seconds to run
 
-![alt text](https://github.com/Anthony-Hendrickson/stock-analysis/blob/main/2018%201st%20run%20-%20post%20refactoring%202018.PNG)
+![alt text](https://github.com/Anthony-Hendrickson/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
 
 This means the macro runs about 8 times faster after refactoring.
 
